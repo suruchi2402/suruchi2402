@@ -6,10 +6,9 @@
 Hi, I am Suruchi !
 
 - 🌱 I am currently pursuing my B.Tech from [NITRR](http://www.nitrr.ac.in/) || Mentee [Codess Cafe](https://codess.cafe/)
-- 👩‍💻 I find my technical interests in Problem Solving, Competitive Programming and Web Development!.
+- 👩‍💻 I find my technical interests in Problem Solving and Web Development!.
 - 🔭 I had worked as women in CP executive at [CodeChef NIT Raipur Chapter](https://www.linkedin.com/company/codechef-nitrr-chapter/?originalSubdomain=in)
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects.
-- 🖋️ I am an artist and I love everything that is drawn by hand or digitally!
 
 ### You can find me here 
 
